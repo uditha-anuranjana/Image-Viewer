@@ -18,6 +18,9 @@
 		67A115CA25D0F63A00FFB6EB /* nssl0033.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 67A115C625D0F63A00FFB6EB /* nssl0033.jpg */; };
 		67A115CB25D0F63A00FFB6EB /* nssl0034.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 67A115C725D0F63A00FFB6EB /* nssl0034.jpg */; };
 		67A115CF25D11B2000FFB6EB /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67A115CE25D11B2000FFB6EB /* DetailViewController.swift */; };
+		67A115D225D15DD000FFB6EB /* screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = 67A115D125D15DD000FFB6EB /* screenshot1.png */; };
+		67A115D525D15DE500FFB6EB /* screenshot2.png in Resources */ = {isa = PBXBuildFile; fileRef = 67A115D425D15DE500FFB6EB /* screenshot2.png */; };
+		67A115D825D15DF200FFB6EB /* screenshot3.png in Resources */ = {isa = PBXBuildFile; fileRef = 67A115D725D15DF200FFB6EB /* screenshot3.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +37,9 @@
 		67A115C625D0F63A00FFB6EB /* nssl0033.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0033.jpg; sourceTree = "<group>"; };
 		67A115C725D0F63A00FFB6EB /* nssl0034.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nssl0034.jpg; sourceTree = "<group>"; };
 		67A115CE25D11B2000FFB6EB /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		67A115D125D15DD000FFB6EB /* screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot1.png; sourceTree = "<group>"; };
+		67A115D425D15DE500FFB6EB /* screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot2.png; sourceTree = "<group>"; };
+		67A115D725D15DF200FFB6EB /* screenshot3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot3.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -50,6 +56,9 @@
 		67A115A225D0F1B400FFB6EB = {
 			isa = PBXGroup;
 			children = (
+				67A115D725D15DF200FFB6EB /* screenshot3.png */,
+				67A115D425D15DE500FFB6EB /* screenshot2.png */,
+				67A115D125D15DD000FFB6EB /* screenshot1.png */,
 				67A115AD25D0F1B400FFB6EB /* Project1 */,
 				67A115AC25D0F1B400FFB6EB /* Products */,
 			);
@@ -151,6 +160,9 @@
 				67A115CB25D0F63A00FFB6EB /* nssl0034.jpg in Resources */,
 				67A115CA25D0F63A00FFB6EB /* nssl0033.jpg in Resources */,
 				67A115C825D0F63A00FFB6EB /* nssl0041.jpg in Resources */,
+				67A115D525D15DE500FFB6EB /* screenshot2.png in Resources */,
+				67A115D225D15DD000FFB6EB /* screenshot1.png in Resources */,
+				67A115D825D15DF200FFB6EB /* screenshot3.png in Resources */,
 				67A115BB25D0F1B500FFB6EB /* LaunchScreen.storyboard in Resources */,
 				67A115B825D0F1B500FFB6EB /* Assets.xcassets in Resources */,
 				67A115B625D0F1B400FFB6EB /* Main.storyboard in Resources */,
